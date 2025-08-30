@@ -1,0 +1,6 @@
+CLI stands for Command Line Interface. CLIs receive input through a command prompt through text strings so all of the information is shown to the user in plain text and files. 
+The only operating system required for CLI is a keyboard and the appearance of a CLI screen can't be changed since there are no menus or graphics. Since CLI doen't rely on graphics, it 
+requires users to know specific commands and syntax. CLI also requires less memory and has higher precision/speed compared to GUI. 
+GUI stands for Graphical User Interface. As the name states, GUI uses graphic elements like icons, buttons, and menus for users to interact with the system. This is a more user friendly 
+approach as there is a visual reference for the functions. GUIs also require a keyboard but need a pointing device, like a mouse too. There is less control and limited functionalites with GUI
+copared to CLI. 
