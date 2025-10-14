@@ -1,0 +1,20 @@
+body {
+ background-image: url("https://i.postimg.cc/CMrdy8gG/temp-Imagefv65-QK.avif");
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
